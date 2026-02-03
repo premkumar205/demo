@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1770103221879,
+    "student_name": "Anonymous",
+    "study_hours": 5,
+    "attendance": 65,
+    "prev_score": 20,
+    "predicted_score": 38.97,
+    "created_at": "2026-02-03T07:20:21.879Z"
+  },
+  {
+    "id": 1770103233482,
+    "student_name": "Anonymous",
+    "study_hours": 5,
+    "attendance": 65,
+    "prev_score": 20,
+    "predicted_score": 36.19,
+    "created_at": "2026-02-03T07:20:33.482Z"
+  },
+  {
+    "id": 1770103237945,
+    "student_name": "Anonymous",
+    "study_hours": 5,
+    "attendance": 65,
+    "prev_score": 2,
+    "predicted_score": 28.3,
+    "created_at": "2026-02-03T07:20:37.945Z"
+  },
+  {
+    "id": 1770103246307,
+    "student_name": "Anonymous",
+    "study_hours": 5,
+    "attendance": 65,
+    "prev_score": 80,
+    "predicted_score": 72.41,
+    "created_at": "2026-02-03T07:20:46.307Z"
+  },
+  {
+    "id": 1770103257290,
+    "student_name": "Anonymous",
+    "study_hours": 8,
+    "attendance": 65,
+    "prev_score": 80,
+    "predicted_score": 81.36,
+    "created_at": "2026-02-03T07:20:57.290Z"
+  },
+  {
+    "id": 1770103265656,
+    "student_name": "Anonymous",
+    "study_hours": 8,
+    "attendance": 1,
+    "prev_score": 80,
+    "predicted_score": 67.87,
+    "created_at": "2026-02-03T07:21:05.656Z"
+  },
+  {
+    "id": 1770103275745,
+    "student_name": "Anonymous",
+    "study_hours": 8,
+    "attendance": 1,
+    "prev_score": 100,
+    "predicted_score": 79.51,
+    "created_at": "2026-02-03T07:21:15.745Z"
+  }
+]
