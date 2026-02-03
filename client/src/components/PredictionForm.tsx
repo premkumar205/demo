@@ -25,8 +25,9 @@ const PredictionForm: React.FC = () => {
         setResult(null);
 
         try {
-            // Assuming backend runs on port 3000
-            const response = await axios.post('http://localhost:3000/predict', {
+            // Use relative URL for Vercel, absolute for local dev
+            const apiUrl = import.meta.env.DEV ? 'http://localhost:3000/predict' : '/api/predict';
+            const response = await axios.post(apiUrl, {
                 studyHours: Number(formData.studyHours),
                 attendance: Number(formData.attendance),
                 prevScore: Number(formData.prevScore),
